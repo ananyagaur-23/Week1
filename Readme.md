@@ -81,6 +81,3 @@ The first week was dedicated to understanding the core syntax and essential buil
 
 This repository is structured to reflect the topics covered each day. You can find code examples, notes, or exercises within the respective daily folders (if available). Feel free to explore the code, run it, and modify it to deepen your understanding.
 
-## Next Steps
-
-Stay tuned for Week 2 as we build on these fundamentals with Object-Oriented Programming and more!
